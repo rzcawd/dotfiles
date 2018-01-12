@@ -315,13 +315,3 @@ exec = ~/scripts/spotify.sh
 
 format-padding = 2
 
-[module/comeback]
-type = custom/script 
-
-interval = 0.8
-
-format-padding = 2
-
-format-foreground = #F65676
-
-exec = ~/scripts/flashingtext.py
